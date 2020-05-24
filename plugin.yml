@@ -1,0 +1,4 @@
+name: SoupFFa
+version: 1.0.0
+main: MIKUMOL\SoupFFa\Main
+api: 3.11.6
